@@ -1,0 +1,6 @@
+.coda.json
+.coda-pack.json
+.coda-credentials.json
+
+node_modules/
+patches/
